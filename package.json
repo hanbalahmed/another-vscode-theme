@@ -1,0 +1,52 @@
+{
+  "name": "codestackr-theme",
+  "displayName": "codeSTACKr Theme but a little different",
+  "description": "Never stop learning and Never give up! This theme is part of my VS Code SuperHero course. Check it out at: vsCodeHero.com",
+  "publisher": "codewithHanbal",
+  "author": {
+    "name": "Hanbal Ahmed"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.51.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "galleryBanner": {
+    "color": "#09131b",
+    "theme": "dark"
+  },
+  "icon": "images/icon/logo_250x250.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "codeSTACKr Theme",
+    "Dark Theme",
+    "VSCode SuperHero",
+    "vsCodeHero",
+    "codeSTACKr",
+    "blue",
+    "orange",
+    "Cobalt",
+    "codewithHanbal"
+  ],
+  "badges": [
+    {
+      "url": "https://img.shields.io/badge/-Become%20a%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=flat",
+      "href": "https://vsCodeHero.com",
+      "description": "Support this project!"
+    }
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "codeSTACKr Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/codeSTACKr-theme.json"
+      }
+    ]
+  }
+}
