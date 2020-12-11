@@ -27,9 +27,8 @@ This font is exclusive to my VS Code SuperHero course. [Sign up now](http://vsCo
 
 ## Installation
 
--[] clone this repository
-
--[] run 
+ clone this repository
+ run 
 ```
  code --install-extension codestackr-theme-0.0.1.vsix
 ``
