@@ -31,7 +31,7 @@ This font is exclusive to my VS Code SuperHero course. [Sign up now](http://vsCo
  run 
 ```
  code --install-extension codestackr-theme-0.0.1.vsix
-``
+```
 
 ## Issues & Suggestions
 
