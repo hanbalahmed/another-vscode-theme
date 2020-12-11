@@ -27,12 +27,12 @@ This font is exclusive to my VS Code SuperHero course. [Sign up now](http://vsCo
 
 ## Installation
 
-1. Open the extensions sidebar on Visual Studio Code
-1. Search for codeSTACKr Theme
-1. Click Install
-1. Click Reload to reload your editor
-1. Select the Manage Cog (bottom left) > Color Theme ＞ codeStackr Theme
-1. 🌟🌟🌟🌟🌟 Rate five-stars 😃
+-[] clone this repository
+
+-[] run 
+```
+ code --install-extension codestackr-theme-0.0.1.vsix
+``
 
 ## Issues & Suggestions
 
