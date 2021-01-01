@@ -1,3 +1,6 @@
+# download
+you can download it [here](https://marketplace.visualstudio.com/items?itemName=codewithHanbal.codestackr-theme&ssr=false#overview)
+
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f)](http://vsCodeHero.com)
 
 [![codeSTACKr Theme Demo](https://raw.githubusercontent.com/codeSTACKr/codestackr-vscode-theme/master/images/theme-demo.gif)](http://vsCodeHero.com)
