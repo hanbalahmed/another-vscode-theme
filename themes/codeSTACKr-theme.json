@@ -62,7 +62,7 @@
       "name": "Function call",
       "scope": "entity.name.function, support.function",
       "settings": {
-        "foreground": "#FFE400"
+        "foreground": "#71a6ec"
       }
     },
     {
@@ -412,7 +412,7 @@
     "editor.foreground": "#FFFFFF",
     "editorLineNumber.foreground": "#FFFFFF4d",
     "editorLineNumber.activeForeground": "#FF652F",
-    "editorCursor.foreground": "#ff5100",
+    "editorCursor.foreground": "#dfb5a2",
     "editor.lineHighlightBorder": "#FFFFFF1a",
     "editor.rangeHighlightBackground": "#FFFFFF0d",
     "editorWidget.background": "#0a1620",
