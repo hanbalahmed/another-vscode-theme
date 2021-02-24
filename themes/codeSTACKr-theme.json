@@ -40,7 +40,7 @@
       "name": "Identifier",
       "scope": "variable, support.variable, support.class, support.constant, meta.definition.variable entity.name.function",
       "settings": {
-        "foreground": "#dba5f1"
+        "foreground": "#722ec0"
       }
     },
     {
